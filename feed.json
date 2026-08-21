@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "updated": "2026-08-21",
+  "ticker": [
+    ">> THE INVASION HAS BEGUN!",
+    "NEW RELEASE: ARTILLERY TP — IN SHOPS AUG 26",
+    "NEW RELEASE: THIS LAND IS OLD AND DARK #1 — AUG 26",
+    "COMING: DEVIL'S CLASS #1 — SEP 23",
+    "FOC AUG 31: THIS LAND #2 + WITCHMASTER OF NORWAY",
+    "PROTECT. YOUR. SHELVES."
+  ],
+  "terminal": [
+    { "t": "ARTILLERY TP", "d": "aug 26" },
+    { "t": "THIS LAND IS OLD AND DARK #1", "d": "aug 26" },
+    { "t": "DEVIL'S CLASS #1", "d": "sep 23" },
+    { "t": "THE DIGGER #1–4 REPRINT", "d": "aug 26" }
+  ],
+  "grid": [
+    {
+      "title": "ARTILLERY TP",
+      "creators": [ { "n": "jimmie robinson" } ],
+      "date": "in shops Aug 26 · FOC closed",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0928.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=artillery",
+      "source": "cover :: lunar 0626MP0928"
+    },
+    {
+      "title": "THIS LAND IS OLD AND DARK #1",
+      "creators": [ { "n": "ryan crowe", "u": "https://www.instagram.com/doctorcrowe/" }, { "n": "abel garcia", "u": "https://abelgrc78.artstation.com/" } ],
+      "date": "in shops Aug 26 · $5.99",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0995.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 0626MP0995"
+    },
+    {
+      "title": "DEVIL'S CLASS #1",
+      "creators": [ { "n": "eli powell", "u": "https://www.instagram.com/instaless_eli/" } ],
+      "date": "in shops Sep 23 · 80pg one-shot",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
+      "source": "cover :: lunar 0726MP1066"
+    },
+    {
+      "title": "THE DIGGER #1–4",
+      "creators": [ { "n": "t.s. luther", "u": "https://www.instagram.com/t.s.luther/" }, { "n": "sam gudilin", "u": "https://www.instagram.com/samgudilin/" } ],
+      "date": "reprints in shops Aug 26",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8002.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=digger",
+      "source": "cover :: lunar 0626MP8002"
+    },
+    {
+      "title": "THIS LAND IS OLD AND DARK #2",
+      "creators": [ { "n": "ryan crowe", "u": "https://www.instagram.com/doctorcrowe/" }, { "n": "abel garcia", "u": "https://abelgrc78.artstation.com/" } ],
+      "date": "FOC Aug 31 · in shops Oct 28",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 0826MP1119"
+    },
+    {
+      "title": "WITCHMASTER OF NORWAY TP",
+      "creators": [ { "n": "keith foster", "u": "https://www.keithrfoster.com/" }, { "n": "marco fontanili", "u": "https://www.instagram.com/marcofontanili.art/" } ],
+      "date": "FOC Aug 31 · in shops Oct 14",
+      "color": "magenta",
+      "cover": "https://images.squarespace-cdn.com/content/v1/61d3b988d4d786087dbcddaf/e68a73b2-d7ec-4a92-b43f-642b40b26a20/Witchmaster+Cover+spread.jpg?format=750w",
+      "contain": true,
+      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
+      "source": "cover :: invadercomics.com ✓"
+    },
+    { "placeholder": true, "title": "COMING SOON", "date": "solicitation pending", "color": "muted", "source": "auto-fills from the lunar feed" },
+    { "placeholder": true, "title": "COMING SOON", "date": "solicitation pending", "color": "muted", "source": "auto-fills from the lunar feed" }
+  ],
+  "carousel": [
+    {
+      "status": "● FUNDED :: in comic shops Sep 23",
+      "title": "DEVIL'S CLASS",
+      "desc": "A chilling 80-page horror mystery graphic novel from Eli Powell. Funded on Kickstarter — now headed to the direct market.",
+      "img": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
+      "url": "https://www.kickstarter.com/projects/invader/devils-class-a-chilling-80pg-horror-mystery-graphic-novel"
+    },
+    {
+      "status": "● FUNDED :: TP in shops Oct 14",
+      "title": "THE WITCHMASTER OF NORWAY",
+      "desc": "Scandinavian cosmic horror — an illustrated novel written by Keith Foster with artwork by Marco Fontanili.",
+      "img": "https://images.squarespace-cdn.com/content/v1/61d3b988d4d786087dbcddaf/e68a73b2-d7ec-4a92-b43f-642b40b26a20/Witchmaster+Cover+spread.jpg?format=750w",
+      "url": "https://www.kickstarter.com/projects/invader/the-witchmaster-of-norway-scandinavian-cosmic-horror"
+    },
+    {
+      "status": "● FUNDED :: in shops now",
+      "title": "THE DEVIL IN THE HERD",
+      "desc": "A supernatural horror western from Katelyn Windels. Funded in February — in comic shops as of May 2026.",
+      "img": "https://media.lunardistribution.com/images/covers/large/0326MP0870.jpg",
+      "url": "https://www.kickstarter.com/projects/invader/the-devil-in-the-herd-a-supernatural-horror-western-comic"
+    }
+  ]
+}
