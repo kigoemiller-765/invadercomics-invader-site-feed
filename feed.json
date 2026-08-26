@@ -1,25 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-08-21",
+  "updated": "2026-08-26",
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
-    "NEW RELEASE: ARTILLERY TP — IN SHOPS AUG 26",
-    "NEW RELEASE: THIS LAND IS OLD AND DARK #1 — AUG 26",
+    "OUT NOW: ARTILLERY TP — IN SHOPS TODAY",
+    "OUT NOW: THIS LAND IS OLD AND DARK #1",
+    "OUT NOW: THE DIGGER #1–4 REPRINTS",
     "COMING: DEVIL'S CLASS #1 — SEP 23",
     "FOC AUG 31: THIS LAND #2 + WITCHMASTER OF NORWAY",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
-    { "t": "ARTILLERY TP", "d": "aug 26" },
-    { "t": "THIS LAND IS OLD AND DARK #1", "d": "aug 26" },
-    { "t": "DEVIL'S CLASS #1", "d": "sep 23" },
-    { "t": "THE DIGGER #1–4 REPRINT", "d": "aug 26" }
+    { "t": "ARTILLERY TP", "d": "aug 26", "u": "https://www.invadercomics.com/store/p/artillery1" },
+    { "t": "THIS LAND IS OLD AND DARK #1", "d": "aug 26", "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark" },
+    { "t": "THE DIGGER #1–4 REPRINT", "d": "aug 26", "u": "https://www.lunardistribution.com/home/search?term=digger" },
+    { "t": "DEVIL'S CLASS #1", "d": "sep 23", "u": "https://www.lunardistribution.com/home/search?term=devils%20class" },
+    { "t": "WITCHMASTER OF NORWAY TP", "d": "oct 14", "u": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway" }
   ],
   "grid": [
     {
       "title": "ARTILLERY TP",
-      "creators": [ { "n": "jimmie robinson" } ],
-      "date": "in shops Aug 26 · FOC closed",
+      "creators": [ { "n": "jimmie robinson", "u": "https://www.instagram.com/jimmie.l.robinson/" } ],
+      "date": "in shops now · released Aug 26",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0928.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=artillery",
@@ -28,11 +30,20 @@
     {
       "title": "THIS LAND IS OLD AND DARK #1",
       "creators": [ { "n": "ryan crowe", "u": "https://www.instagram.com/doctorcrowe/" }, { "n": "abel garcia", "u": "https://abelgrc78.artstation.com/" } ],
-      "date": "in shops Aug 26 · $5.99",
+      "date": "in shops now · $5.99",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0995.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
       "source": "cover :: lunar 0626MP0995"
+    },
+    {
+      "title": "THE DIGGER #1–4",
+      "creators": [ { "n": "t.s. luther", "u": "https://www.instagram.com/t.s.luther/" }, { "n": "sam gudilin", "u": "https://www.instagram.com/samgudilin/" } ],
+      "date": "reprints in shops now",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8002.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=digger",
+      "source": "cover :: lunar 0626MP8002"
     },
     {
       "title": "DEVIL'S CLASS #1",
@@ -42,15 +53,6 @@
       "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
       "source": "cover :: lunar 0726MP1066"
-    },
-    {
-      "title": "THE DIGGER #1–4",
-      "creators": [ { "n": "t.s. luther", "u": "https://www.instagram.com/t.s.luther/" }, { "n": "sam gudilin", "u": "https://www.instagram.com/samgudilin/" } ],
-      "date": "reprints in shops Aug 26",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8002.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=digger",
-      "source": "cover :: lunar 0626MP8002"
     },
     {
       "title": "THIS LAND IS OLD AND DARK #2",
