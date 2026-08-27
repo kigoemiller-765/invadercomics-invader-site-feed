@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
     "OUT NOW: ARTILLERY TP — IN SHOPS TODAY",
@@ -14,17 +14,17 @@
   "terminal": [
     {
       "t": "ARTILLERY TP",
-      "d": "aug 26",
+      "d": "out now",
       "u": "https://www.invadercomics.com/store/p/artillery1"
     },
     {
       "t": "THIS LAND IS OLD AND DARK #1",
-      "d": "aug 26",
+      "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
     },
     {
       "t": "THE DIGGER #1–4 REPRINT",
-      "d": "aug 26",
+      "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=digger"
     },
     {
@@ -36,6 +36,16 @@
       "t": "WITCHMASTER OF NORWAY TP",
       "d": "oct 14",
       "u": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway"
+    },
+    {
+      "t": "THIS LAND IS OLD AND DARK #2",
+      "d": "oct 28",
+      "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
+    },
+    {
+      "t": "FIRST WAVE TP VOL 02",
+      "d": "solicited",
+      "u": "https://www.lunardistribution.com/home/search?term=first%20wave"
     }
   ],
   "grid": [
