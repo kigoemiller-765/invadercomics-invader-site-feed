@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
     "OUT NOW: ARTILLERY TP — IN SHOPS TODAY",
@@ -213,7 +213,7 @@
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
       "cta": "FOC AUG 31 — ORDER VIA LUNAR ↗",
       "source": "cover :: lunar 0826MP1119",
-      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage’s walls, this land is old, and it is dark."
+      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage's walls, this land is old, and it is dark."
     },
     {
       "section": "incoming",
@@ -251,7 +251,7 @@
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
       "cta": "COMING SEP 23 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0726MP1066",
-      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn’t begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn’t the one holding the chalk."
+      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk."
     },
     {
       "section": "incoming",
@@ -267,7 +267,7 @@
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
       "cta": "NOW SOLICITING — LUNAR LISTING ↗",
       "source": "cover :: lunar 0926MP0979",
-      "desc": "The second volume of Invader’s quarterly anthology — a first look at our best books: black-and-white first issues, teasers, covers, and more in a compact, manga-inspired format. FOC and in-store dates to be announced."
+      "desc": "The second volume of Invader's quarterly anthology — a first look at our best books: black-and-white first issues, teasers, covers, and more in a compact, manga-inspired format. FOC and in-store dates to be announced."
     },
     {
       "section": "out",
@@ -284,7 +284,7 @@
       "link": "https://www.invadercomics.com/store/p/artillery1",
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: lunar 0626MP0928",
-      "desc": "The complete WEAPONS OF ART miniseries in one volume. “A.I. stole your art. We’re gonna steal it BACK!” The Mona Lisa herself has been stolen — and a team of artists trains to rescue her and keep the doors of creativity open for all humanity."
+      "desc": "The complete WEAPONS OF ART miniseries in one volume. \"A.I. stole your art. We're gonna steal it BACK!\" The Mona Lisa herself has been stolen — and a team of artists trains to rescue her and keep the doors of creativity open for all humanity."
     },
     {
       "section": "out",
@@ -305,7 +305,7 @@
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
       "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
       "source": "cover :: lunar 0626MP0995",
-      "desc": "Jacques Du Lac is the most adored man in Fort Courage. When the corrupt leadership council decides his popularity threatens their grip on the settlement, they cast him beyond the fort’s impenetrable walls. Colonial horror, developed with mentorship from Scott Snyder."
+      "desc": "Jacques Du Lac is the most adored man in Fort Courage. When the corrupt leadership council decides his popularity threatens their grip on the settlement, they cast him beyond the fort's impenetrable walls. Colonial horror, developed with mentorship from Scott Snyder."
     },
     {
       "section": "out",
@@ -373,23 +373,6 @@
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: invadercomics.com ✓",
       "desc": "The clock is ticking in the fourth and final issue as private detective Randall Halsey — murdered, and undeterred by it — races to stop a killer and save Veronica from spending her eternity trapped in the Argyle Hotel. A mystery/thriller with a supernatural twist."
-    },
-    {
-      "section": "out",
-      "title": "THE DEVIL IN THE HERD",
-      "creators": [
-        {
-          "n": "katelyn windels",
-          "u": "https://www.instagram.com/katekomics/"
-        }
-      ],
-      "date": "out now · released May 27 · $7.99",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0326MP0870.jpg",
-      "link": "https://www.invadercomics.com/store/p/devilintheherd",
-      "cta": "BUY AT THE INVADER STORE ↗",
-      "source": "cover :: lunar 0326MP0870",
-      "desc": "In the unforgiving deserts of the American Southwest, a faceless man with burning red eyes trails a cattle drive — silent, patient, and unseen by all but one. A supernatural horror western, funded on Kickstarter."
     }
   ]
 }
