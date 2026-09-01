@@ -230,24 +230,36 @@
     },
     {
       "section": "incoming",
-      "title": "THIS LAND IS OLD AND DARK #2",
+      "title": "FIRST WAVE TP VOL 02",
       "creators": [
         {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
+          "n": "invader anthology"
         }
       ],
-      "date": "FOC Aug 31 · in shops Oct 28 · #2 of 3",
-      "color": "magenta",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "FOC AUG 31 — ORDER VIA LUNAR ↗",
-      "source": "cover :: lunar 0826MP1119",
-      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage’s walls, this land is old, and it is dark."
+      "date": "now soliciting on Lunar · dates pending",
+      "color": "muted",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
+      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
+      "source": "cover :: lunar 0926MP0979",
+      "desc": "The second volume of Invader’s quarterly anthology — a first look at our best books: black-and-white first issues, teasers, covers, and more in a compact, manga-inspired format. FOC and in-store dates to be announced."
+    },
+    {
+      "section": "incoming",
+      "title": "DEVIL'S CLASS #1",
+      "creators": [
+        {
+          "n": "eli powell",
+          "u": "https://www.instagram.com/instaless_eli/"
+        }
+      ],
+      "date": "in shops Sep 23 · $9.99 · 80pg one-shot",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
+      "cta": "COMING SEP 23 — LUNAR LISTING ↗",
+      "source": "cover :: lunar 0726MP1066",
+      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn’t begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn’t the one holding the chalk."
     },
     {
       "section": "incoming",
@@ -272,36 +284,24 @@
     },
     {
       "section": "incoming",
-      "title": "DEVIL'S CLASS #1",
+      "title": "THIS LAND IS OLD AND DARK #2",
       "creators": [
         {
-          "n": "eli powell",
-          "u": "https://www.instagram.com/instaless_eli/"
-        }
-      ],
-      "date": "in shops Sep 23 · $9.99 · 80pg one-shot",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
-      "cta": "COMING SEP 23 — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0726MP1066",
-      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn’t begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn’t the one holding the chalk."
-    },
-    {
-      "section": "incoming",
-      "title": "FIRST WAVE TP VOL 02",
-      "creators": [
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
         {
-          "n": "invader anthology"
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
         }
       ],
-      "date": "now soliciting on Lunar · dates pending",
-      "color": "muted",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0926MP0979",
-      "desc": "The second volume of Invader’s quarterly anthology — a first look at our best books: black-and-white first issues, teasers, covers, and more in a compact, manga-inspired format. FOC and in-store dates to be announced."
+      "date": "FOC Aug 31 · in shops Oct 28 · #2 of 3",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "cta": "FOC AUG 31 — ORDER VIA LUNAR ↗",
+      "source": "cover :: lunar 0826MP1119",
+      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage’s walls, this land is old, and it is dark."
     },
     {
       "section": "out",
