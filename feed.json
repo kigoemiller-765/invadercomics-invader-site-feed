@@ -1,15 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-09-01",
+  "updated": "2026-09-04",
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
     "OUT NOW: ARTILLERY TP — IN SHOPS TODAY",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
     "OUT NOW: THE DIGGER #1–4 REPRINTS",
     "COMING: DEVIL'S CLASS #1 — SEP 23",
-    "FOC AUG 31: THIS LAND #2 + WITCHMASTER OF NORWAY",
-    "NOW SOLICITING: FIRST WAVE TP VOL 02",
-    "NOW SOLICITING: FIELD GUIDE TO LEGENDARY CREATURES #1",
+    "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
+    "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
+    "FOC SEP 28: FIELD GUIDE TO LEGENDARY CREATURES #1",
+    "FOC OCT 5: FIRST WAVE TP VOL 02",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
@@ -44,14 +45,14 @@
       "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
     },
     {
-      "t": "FIRST WAVE TP VOL 02",
-      "d": "soliciting",
-      "u": "https://www.lunardistribution.com/home/search?term=first%20wave"
+      "t": "FIELD GUIDE TO LEGENDARY CREATURES #1",
+      "d": "nov 18",
+      "u": "https://www.lunardistribution.com/home/search?term=field%20guide"
     },
     {
-      "t": "FIELD GUIDE TO LEGENDARY CREATURES #1",
-      "d": "soliciting",
-      "u": "https://www.lunardistribution.com/home/search?term=field%20guide"
+      "t": "FIRST WAVE TP VOL 02",
+      "d": "nov 25",
+      "u": "https://www.lunardistribution.com/home/search?term=first%20wave"
     }
   ],
   "grid": [
@@ -120,24 +121,6 @@
       "source": "cover :: lunar 0726MP1066"
     },
     {
-      "title": "THIS LAND IS OLD AND DARK #2",
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "in shops Oct 28",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "source": "cover :: lunar 0826MP1119"
-    },
-    {
       "title": "WITCHMASTER OF NORWAY TP",
       "creators": [
         {
@@ -156,33 +139,57 @@
       "source": "cover :: lunar 0826MP1134"
     },
     {
-      "title": "FIRST WAVE TP VOL 02",
+      "title": "THIS LAND IS OLD AND DARK #2",
       "creators": [
         {
-          "n": "invader anthology"
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
         }
       ],
-      "date": "now soliciting on Lunar · dates pending",
-      "color": "muted",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
-      "source": "cover :: lunar 0926MP0979"
+      "date": "in shops Oct 28",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 0826MP1119"
     },
     {
       "title": "FIELD GUIDE TO LEGENDARY CREATURES OF THE UNITED STATES #1 (OF 4): THE NORTHEAST",
       "creators": [
         {
-          "n": "mike perkins"
+          "n": "michael perkins"
         },
         {
-          "n": "various artists"
+          "n": "asher benson"
+        },
+        {
+          "n": "pete collins"
         }
       ],
-      "date": "now soliciting on Lunar · dates pending",
-      "color": "muted",
+      "date": "FOC Sep 28 · in shops Nov 18 · $3.99",
+      "color": "magenta",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
       "source": "cover :: lunar 0926MP0978"
+    },
+    {
+      "title": "FIRST WAVE TP VOL 02",
+      "creators": [
+        {
+          "n": "invader anthology"
+        },
+        {
+          "n": "michael nelsen (cover)"
+        }
+      ],
+      "date": "FOC Oct 5 · in shops Nov 25 · $6.99",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
+      "source": "cover :: lunar 0926MP0979"
     }
   ],
   "carousel": [
@@ -209,41 +216,6 @@
     }
   ],
   "releases": [
-    {
-      "section": "incoming",
-      "title": "FIELD GUIDE TO LEGENDARY CREATURES OF THE UNITED STATES #1 (OF 4): THE NORTHEAST",
-      "creators": [
-        {
-          "n": "mike perkins"
-        },
-        {
-          "n": "various artists"
-        }
-      ],
-      "date": "now soliciting on Lunar · dates pending",
-      "color": "muted",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0926MP0978",
-      "desc": "A four-issue illustrated survey of American cryptids, opening in the Northeast. Now soliciting on Lunar — FOC, in-store date and price to be announced."
-    },
-    {
-      "section": "incoming",
-      "title": "FIRST WAVE TP VOL 02",
-      "creators": [
-        {
-          "n": "invader anthology"
-        }
-      ],
-      "date": "now soliciting on Lunar · dates pending",
-      "color": "muted",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0926MP0979",
-      "desc": "The second volume of Invader’s quarterly anthology — a first look at our best books: black-and-white first issues, teasers, covers, and more in a compact, manga-inspired format. FOC and in-store dates to be announced."
-    },
     {
       "section": "incoming",
       "title": "DEVIL'S CLASS #1",
@@ -302,6 +274,47 @@
       "cta": "COMING OCT 28 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0826MP1119",
       "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage’s walls, this land is old, and it is dark."
+    },
+    {
+      "section": "incoming",
+      "title": "FIELD GUIDE TO LEGENDARY CREATURES OF THE UNITED STATES #1 (OF 4): THE NORTHEAST",
+      "creators": [
+        {
+          "n": "michael perkins"
+        },
+        {
+          "n": "asher benson"
+        },
+        {
+          "n": "pete collins"
+        }
+      ],
+      "date": "FOC Sep 28 · in shops Nov 18 · $3.99 · 28pg (1 of 4)",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
+      "cta": "FOC SEP 28 — ORDER VIA LUNAR ↗",
+      "source": "cover :: lunar 0926MP0978",
+      "desc": "A new four-issue field guide to the monsters of American folklore, kicking off in the Northeast. Written by Michael Perkins with art by Asher Benson and Pete Collins."
+    },
+    {
+      "section": "incoming",
+      "title": "FIRST WAVE TP VOL 02",
+      "creators": [
+        {
+          "n": "invader anthology"
+        },
+        {
+          "n": "michael nelsen (cover)"
+        }
+      ],
+      "date": "FOC Oct 5 · in shops Nov 25 · $6.99 · 100pg B&W anthology TP",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
+      "cta": "FOC OCT 5 — ORDER VIA LUNAR ↗",
+      "source": "cover :: lunar 0926MP0979",
+      "desc": "Invader’s quarterly anthology returns for volume two: 100 pages of black-and-white first issues, teasers, covers, and exclusive shorts you won’t find anywhere else. Cover by Michael Nelsen."
     },
     {
       "section": "out",
@@ -407,23 +420,6 @@
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: invadercomics.com ✓",
       "desc": "The clock is ticking in the fourth and final issue as private detective Randall Halsey — murdered, and undeterred by it — races to stop a killer and save Veronica from spending her eternity trapped in the Argyle Hotel. A mystery/thriller with a supernatural twist."
-    },
-    {
-      "section": "out",
-      "title": "THE DEVIL IN THE HERD",
-      "creators": [
-        {
-          "n": "katelyn windels",
-          "u": "https://www.instagram.com/katekomics/"
-        }
-      ],
-      "date": "out now · released May 27 · $7.99",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0326MP0870.jpg",
-      "link": "https://www.invadercomics.com/store/p/devilintheherd",
-      "cta": "BUY AT THE INVADER STORE ↗",
-      "source": "cover :: lunar 0326MP0870",
-      "desc": "In the unforgiving deserts of the American Southwest, a faceless man with burning red eyes trails a cattle drive — silent, patient, and unseen by all but one. A supernatural horror western, funded on Kickstarter."
     }
   ]
 }
