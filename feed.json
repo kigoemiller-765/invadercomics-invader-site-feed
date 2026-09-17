@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -17,7 +17,7 @@
     "OUT NOW: ARTILLERY TP",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
     "OUT NOW: THE DIGGER #1–4 REPRINTS",
-    "COMING: DEVIL'S CLASS #1 — SEP 23",
+    "COMING: DEVIL'S CLASS #1 — SEP 30",
     "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
     "FOC SEP 28: FIELD GUIDE TO LEGENDARY CREATURES #1",
@@ -42,7 +42,7 @@
     },
     {
       "t": "DEVIL'S CLASS #1",
-      "d": "sep 23",
+      "d": "sep 30",
       "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
     },
     {
@@ -125,7 +125,7 @@
           "u": "https://www.instagram.com/instaless_eli/"
         }
       ],
-      "date": "in shops Sep 23 · 80pg one-shot",
+      "date": "in shops Sep 30 · 80pg one-shot",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
@@ -212,7 +212,7 @@
       "url": "https://www.kickstarter.com/projects/invader/artillery-a-graphic-novel-fighting-back-against-ai-0"
     },
     {
-      "status": "● FUNDED :: in comic shops Sep 23",
+      "status": "● FUNDED :: in comic shops Sep 30",
       "title": "DEVIL'S CLASS",
       "desc": "A chilling 80-page horror mystery graphic novel from Eli Powell. Funded on Kickstarter — now headed to the direct market.",
       "img": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
@@ -243,11 +243,11 @@
           "u": "https://www.instagram.com/instaless_eli/"
         }
       ],
-      "date": "in shops Sep 23 · $9.99 · 80pg one-shot",
+      "date": "in shops Sep 30 · $9.99 · 80pg one-shot",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
-      "cta": "COMING SEP 23 — LUNAR LISTING ↗",
+      "cta": "COMING SEP 30 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0726MP1066",
       "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk."
     },
