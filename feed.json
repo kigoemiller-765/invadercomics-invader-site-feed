@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17",
+  "updated": "2026-09-23",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -22,6 +22,8 @@
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
     "FOC SEP 28: FIELD GUIDE TO LEGENDARY CREATURES #1",
     "FOC OCT 5: FIRST WAVE TP VOL 02",
+    "NOW SOLICITING: THIS LAND IS OLD AND DARK #3",
+    "NOW SOLICITING: THE NAUGHTY LIST #1",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
@@ -234,6 +236,39 @@
     }
   ],
   "releases": [
+    {
+      "section": "incoming",
+      "title": "THIS LAND IS OLD AND DARK #3",
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "solicitation pending · #3 of 3",
+      "color": "muted",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
+      "source": "cover :: lunar 1026MP1036",
+      "desc": "The colonial horror series concludes in its third and final issue. FOC and in-store date not yet announced — now listed on Lunar."
+    },
+    {
+      "section": "incoming",
+      "title": "THE NAUGHTY LIST #1",
+      "creators": [],
+      "date": "solicitation pending · #1 of 4",
+      "color": "muted",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
+      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
+      "source": "cover :: lunar 1026MP1017",
+      "desc": "A new four-issue holiday horror one-shot series from Invader's Gory Books line — a dark twist on the classic Golden Books look. FOC and in-store date not yet announced — now listed on Lunar."
+    },
     {
       "section": "incoming",
       "title": "DEVIL'S CLASS #1",
