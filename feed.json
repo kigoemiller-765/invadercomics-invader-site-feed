@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23",
+  "updated": "2026-09-25",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -448,31 +448,6 @@
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: lunar 0626MP8005",
       "desc": "The final issue: the saga of the Digger and the Kid reaches its epic conclusion among the hidden Olmec ruins of 1930s Veracruz."
-    },
-    {
-      "section": "out",
-      "title": "DO NOT DISTURB #4",
-      "creators": [
-        {
-          "n": "david r. flores",
-          "u": "https://www.instagram.com/sicmonkie/"
-        },
-        {
-          "n": "jarod hunter roe",
-          "u": "https://www.instagram.com/jarodhroe/"
-        },
-        {
-          "n": "lorenzo scaramella",
-          "u": "https://www.instagram.com/skacolors/"
-        }
-      ],
-      "date": "out now · released Jun 24 · $6.99",
-      "color": "yellow",
-      "cover": "https://static1.squarespace.com/static/61d3b988d4d786087dbcddaf/61d45cc29a040c3cd4b80fdf/6a6bcc8b9aa20027be6e6875/1785449761917/60887064201800311+Do+Not+Disturb+%234+CVR+A.jpg?format=750w",
-      "link": "https://www.invadercomics.com/store/p/donotdisturb3-6yw9e",
-      "cta": "BUY AT THE INVADER STORE ↗",
-      "source": "cover :: invadercomics.com ✓",
-      "desc": "The clock is ticking in the fourth and final issue as private detective Randall Halsey — murdered, and undeterred by it — races to stop a killer and save Veronica from spending her eternity trapped in the Argyle Hotel. A mystery/thriller with a supernatural twist."
     }
   ]
 }
