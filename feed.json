@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25",
+  "updated": "2026-09-29",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -20,7 +20,6 @@
     "COMING: DEVIL'S CLASS #1 — SEP 30",
     "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
-    "FOC SEP 28: FIELD GUIDE TO LEGENDARY CREATURES #1",
     "FOC OCT 5: FIRST WAVE TP VOL 02",
     "NOW SOLICITING: THIS LAND IS OLD AND DARK #3",
     "NOW SOLICITING: THE NAUGHTY LIST #1",
@@ -182,8 +181,8 @@
           "n": "pete collins"
         }
       ],
-      "date": "FOC Sep 28 · in shops Nov 18 · $3.99",
-      "color": "magenta",
+      "date": "in shops Nov 18 · $3.99",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
       "source": "cover :: lunar 0926MP0978"
@@ -342,11 +341,11 @@
           "n": "pete collins"
         }
       ],
-      "date": "FOC Sep 28 · in shops Nov 18 · $3.99 · 28pg (1 of 4)",
-      "color": "magenta",
+      "date": "in shops Nov 18 · $3.99 · 28pg (1 of 4)",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
-      "cta": "FOC SEP 28 — ORDER VIA LUNAR ↗",
+      "cta": "COMING NOV 18 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0926MP0978",
       "desc": "A new four-issue field guide to the monsters of American folklore, kicking off in the Northeast. Written by Michael Perkins with art by Asher Benson and Pete Collins."
     },
