@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -14,10 +14,10 @@
   },
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
+    "OUT NOW: DEVIL'S CLASS #1",
     "OUT NOW: ARTILLERY TP",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
     "OUT NOW: THE DIGGER #1–4 REPRINTS",
-    "COMING: DEVIL'S CLASS #1 — SEP 30",
     "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
     "FOC OCT 5: FIRST WAVE TP VOL 02",
@@ -26,6 +26,11 @@
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
+    {
+      "t": "DEVIL'S CLASS #1",
+      "d": "out now",
+      "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
+    },
     {
       "t": "ARTILLERY TP",
       "d": "out now",
@@ -40,11 +45,6 @@
       "t": "THE DIGGER #1–4 REPRINT",
       "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=digger"
-    },
-    {
-      "t": "DEVIL'S CLASS #1",
-      "d": "sep 30",
-      "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
     },
     {
       "t": "WITCHMASTER OF NORWAY TP",
@@ -126,7 +126,7 @@
           "u": "https://www.instagram.com/instaless_eli/"
         }
       ],
-      "date": "in shops Sep 30 · 80pg one-shot",
+      "date": "in shops now · released Sep 30 · 80pg one-shot",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
@@ -270,23 +270,6 @@
     },
     {
       "section": "incoming",
-      "title": "DEVIL'S CLASS #1",
-      "creators": [
-        {
-          "n": "eli powell",
-          "u": "https://www.instagram.com/instaless_eli/"
-        }
-      ],
-      "date": "in shops Sep 30 · $9.99 · 80pg one-shot",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
-      "cta": "COMING SEP 30 — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0726MP1066",
-      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk."
-    },
-    {
-      "section": "incoming",
       "title": "THE WITCHMASTER OF NORWAY TP",
       "creators": [
         {
@@ -367,6 +350,23 @@
       "cta": "FOC OCT 5 — ORDER VIA LUNAR ↗",
       "source": "cover :: lunar 0926MP0979",
       "desc": "Invader's quarterly anthology returns for volume two: 100 pages of black-and-white first issues, teasers, covers, and exclusive shorts you won't find anywhere else. Cover by Michael Nelsen."
+    },
+    {
+      "section": "out",
+      "title": "DEVIL'S CLASS #1",
+      "creators": [
+        {
+          "n": "eli powell",
+          "u": "https://www.instagram.com/instaless_eli/"
+        }
+      ],
+      "date": "out now · released Sep 30 · $9.99 · 80pg one-shot",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
+      "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
+      "source": "cover :: lunar 0726MP1066",
+      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk."
     },
     {
       "section": "out",
