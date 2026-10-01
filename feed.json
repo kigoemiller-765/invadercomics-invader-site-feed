@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -21,8 +21,9 @@
     "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
     "FOC OCT 5: FIRST WAVE TP VOL 02",
-    "NOW SOLICITING: THIS LAND IS OLD AND DARK #3",
-    "NOW SOLICITING: THE NAUGHTY LIST #1",
+    "FOC OCT 26: THE NAUGHTY LIST #1",
+    "FOC OCT 26: NOSFERATU: BEHIND THE HORROR AND DEATH TP",
+    "FOC NOV 2: THIS LAND IS OLD AND DARK #3",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
@@ -30,21 +31,6 @@
       "t": "DEVIL'S CLASS #1",
       "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
-    },
-    {
-      "t": "ARTILLERY TP",
-      "d": "out now",
-      "u": "https://www.invadercomics.com/store/p/artillery1"
-    },
-    {
-      "t": "THIS LAND IS OLD AND DARK #1",
-      "d": "out now",
-      "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
-    },
-    {
-      "t": "THE DIGGER #1–4 REPRINT",
-      "d": "out now",
-      "u": "https://www.lunardistribution.com/home/search?term=digger"
     },
     {
       "t": "WITCHMASTER OF NORWAY TP",
@@ -65,25 +51,59 @@
       "t": "FIRST WAVE TP VOL 02",
       "d": "nov 25",
       "u": "https://www.lunardistribution.com/home/search?term=first%20wave"
+    },
+    {
+      "t": "THE NAUGHTY LIST #1",
+      "d": "dec 16",
+      "u": "https://www.lunardistribution.com/home/search?term=naughty%20list"
+    },
+    {
+      "t": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
+      "d": "dec 16",
+      "u": "https://www.lunardistribution.com/home/search?term=nosferatu"
+    },
+    {
+      "t": "THIS LAND IS OLD AND DARK #3",
+      "d": "dec 23",
+      "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
     }
   ],
   "grid": [
     {
-      "title": "ARTILLERY TP",
+      "title": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
       "creators": [
         {
-          "n": "jimmie robinson",
-          "u": "https://www.instagram.com/jimmie.l.robinson/"
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
         }
       ],
-      "date": "in shops now · released Aug 26",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0928.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=artillery",
-      "source": "cover :: lunar 0626MP0928"
+      "date": "FOC Oct 26 · in shops Dec 16 · $22.99",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1020.jpg",
+      "contain": true,
+      "link": "https://www.lunardistribution.com/home/search?term=nosferatu",
+      "source": "cover :: lunar 1026MP1020",
+      "activity": "2026-10-01"
     },
     {
-      "title": "THIS LAND IS OLD AND DARK #1",
+      "title": "THE NAUGHTY LIST #1 (OF 4)",
+      "creators": [
+        {
+          "n": "shawn lewis"
+        },
+        {
+          "n": "ben perkins"
+        }
+      ],
+      "date": "FOC Oct 26 · in shops Dec 16 · $5.99",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
+      "source": "cover :: lunar 1026MP1017",
+      "activity": "2026-10-01"
+    },
+    {
+      "title": "THIS LAND IS OLD AND DARK #3",
       "creators": [
         {
           "n": "ryan crowe",
@@ -94,29 +114,12 @@
           "u": "https://abelgrc78.artstation.com/"
         }
       ],
-      "date": "in shops now · $5.99",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0995.jpg",
+      "date": "FOC Nov 2 · in shops Dec 23 · $5.99",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "source": "cover :: lunar 0626MP0995"
-    },
-    {
-      "title": "THE DIGGER #1–4",
-      "creators": [
-        {
-          "n": "t.s. luther",
-          "u": "https://www.instagram.com/t.s.luther/"
-        },
-        {
-          "n": "sam gudilin",
-          "u": "https://www.instagram.com/samgudilin/"
-        }
-      ],
-      "date": "reprints in shops now",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8002.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=digger",
-      "source": "cover :: lunar 0626MP8002"
+      "source": "cover :: lunar 1026MP1036",
+      "activity": "2026-10-01"
     },
     {
       "title": "DEVIL'S CLASS #1",
@@ -130,43 +133,8 @@
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0726MP1066.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
-      "source": "cover :: lunar 0726MP1066"
-    },
-    {
-      "title": "WITCHMASTER OF NORWAY TP",
-      "creators": [
-        {
-          "n": "keith foster",
-          "u": "https://www.keithrfoster.com/"
-        },
-        {
-          "n": "marco fontanili",
-          "u": "https://www.instagram.com/marcofontanili.art/"
-        }
-      ],
-      "date": "in shops Oct 14",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
-      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
-      "source": "cover :: lunar 0826MP1134"
-    },
-    {
-      "title": "THIS LAND IS OLD AND DARK #2",
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "in shops Oct 28",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "source": "cover :: lunar 0826MP1119"
+      "source": "cover :: lunar 0726MP1066",
+      "activity": "2026-09-30"
     },
     {
       "title": "FIELD GUIDE TO LEGENDARY CREATURES OF THE UNITED STATES #1 (OF 4): THE NORTHEAST",
@@ -185,7 +153,8 @@
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0978.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
-      "source": "cover :: lunar 0926MP0978"
+      "source": "cover :: lunar 0926MP0978",
+      "activity": "2026-09-28"
     },
     {
       "title": "FIRST WAVE TP VOL 02",
@@ -201,7 +170,46 @@
       "color": "magenta",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
-      "source": "cover :: lunar 0926MP0979"
+      "source": "cover :: lunar 0926MP0979",
+      "activity": "2026-09-10"
+    },
+    {
+      "title": "WITCHMASTER OF NORWAY TP",
+      "creators": [
+        {
+          "n": "keith foster",
+          "u": "https://www.keithrfoster.com/"
+        },
+        {
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
+        }
+      ],
+      "date": "in shops Oct 14",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
+      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
+      "source": "cover :: lunar 0826MP1134",
+      "activity": "2026-08-31"
+    },
+    {
+      "title": "THIS LAND IS OLD AND DARK #2",
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "in shops Oct 28",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 0826MP1119",
+      "activity": "2026-08-31"
     }
   ],
   "carousel": [
@@ -237,6 +245,45 @@
   "releases": [
     {
       "section": "incoming",
+      "title": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
+      "creators": [
+        {
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
+        }
+      ],
+      "date": "FOC Oct 26 · in shops Dec 16 · $22.99 · 176pg TP",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1020.jpg",
+      "contain": true,
+      "link": "https://www.lunardistribution.com/home/search?term=nosferatu",
+      "cta": "FOC OCT 26 - ORDER VIA LUNAR ↗",
+      "source": "cover :: lunar 1026MP1020",
+      "desc": "Marco Fontanili's illustrated history of the German Expressionist classic: its birth, its near destruction, and its resurrection, told across 176 pages in a sideways format.",
+      "activity": "2026-10-01"
+    },
+    {
+      "section": "incoming",
+      "title": "THE NAUGHTY LIST #1",
+      "creators": [
+        {
+          "n": "shawn lewis"
+        },
+        {
+          "n": "ben perkins"
+        }
+      ],
+      "date": "FOC Oct 26 · in shops Dec 16 · $5.99 · 32pg (1 of 4)",
+      "color": "magenta",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
+      "cta": "FOC OCT 26 - ORDER VIA LUNAR ↗",
+      "source": "cover :: lunar 1026MP1017",
+      "desc": "A massacre at the North Pole, and Santa takes the fall. Locked in an asylum for the mythologically insane, he's the only one who can hunt down the deranged holiday icons loosed by a jailbreak. Written by Shawn Lewis with art by Ben Perkins, from Invader's Gory Books line.",
+      "activity": "2026-10-01"
+    },
+    {
+      "section": "incoming",
       "title": "THIS LAND IS OLD AND DARK #3",
       "creators": [
         {
@@ -248,67 +295,14 @@
           "u": "https://abelgrc78.artstation.com/"
         }
       ],
-      "date": "solicitation pending · #3 of 3",
-      "color": "muted",
+      "date": "FOC Nov 2 · in shops Dec 23 · $5.99 · 24pg (3 of 3)",
+      "color": "magenta",
       "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
+      "cta": "FOC NOV 2 - ORDER VIA LUNAR ↗",
       "source": "cover :: lunar 1026MP1036",
-      "desc": "The colonial horror series concludes in its third and final issue. FOC and in-store date not yet announced — now listed on Lunar."
-    },
-    {
-      "section": "incoming",
-      "title": "THE NAUGHTY LIST #1",
-      "creators": [],
-      "date": "solicitation pending · #1 of 4",
-      "color": "muted",
-      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
-      "source": "cover :: lunar 1026MP1017",
-      "desc": "A new four-issue holiday horror one-shot series from Invader's Gory Books line — a dark twist on the classic Golden Books look. FOC and in-store date not yet announced — now listed on Lunar."
-    },
-    {
-      "section": "incoming",
-      "title": "THE WITCHMASTER OF NORWAY TP",
-      "creators": [
-        {
-          "n": "keith foster",
-          "u": "https://www.keithrfoster.com/"
-        },
-        {
-          "n": "marco fontanili",
-          "u": "https://www.instagram.com/marcofontanili.art/"
-        }
-      ],
-      "date": "in shops Oct 14 · illustrated novel",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway",
-      "cta": "COMING OCT 14 — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0826MP1134",
-      "desc": "In the frozen shadows of Vardø, Norway — where the sun vanishes for a month and legends never sleep — journalist Mitchell Thomsen returns home to confront a haunting from his past, as the centuries-old Vardø witch trials resurface and reality begins to slip. Scandinavian cosmic horror."
-    },
-    {
-      "section": "incoming",
-      "title": "THIS LAND IS OLD AND DARK #2",
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "in shops Oct 28 · #2 of 3",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "COMING OCT 28 — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0826MP1119",
-      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage's walls, this land is old, and it is dark."
+      "desc": "The fall of Fort Courage. Jacques Du Lac races home with Longhunter and her exiles as the truth about the Skinwalkers comes out, and the walls that held back The Vast finally give. The colonial horror series reaches its brutal conclusion.",
+      "activity": "2026-10-01"
     },
     {
       "section": "incoming",
@@ -330,7 +324,8 @@
       "link": "https://www.lunardistribution.com/home/search?term=field%20guide",
       "cta": "COMING NOV 18 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0926MP0978",
-      "desc": "A new four-issue field guide to the monsters of American folklore, kicking off in the Northeast. Written by Michael Perkins with art by Asher Benson and Pete Collins."
+      "desc": "A new four-issue field guide to the monsters of American folklore, kicking off in the Northeast. Written by Michael Perkins with art by Asher Benson and Pete Collins.",
+      "activity": "2026-09-28"
     },
     {
       "section": "incoming",
@@ -349,7 +344,52 @@
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
       "cta": "FOC OCT 5 — ORDER VIA LUNAR ↗",
       "source": "cover :: lunar 0926MP0979",
-      "desc": "Invader's quarterly anthology returns for volume two: 100 pages of black-and-white first issues, teasers, covers, and exclusive shorts you won't find anywhere else. Cover by Michael Nelsen."
+      "desc": "Invader's quarterly anthology returns for volume two: 100 pages of black-and-white first issues, teasers, covers, and exclusive shorts you won't find anywhere else. Cover by Michael Nelsen.",
+      "activity": "2026-09-10"
+    },
+    {
+      "section": "incoming",
+      "title": "THE WITCHMASTER OF NORWAY TP",
+      "creators": [
+        {
+          "n": "keith foster",
+          "u": "https://www.keithrfoster.com/"
+        },
+        {
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
+        }
+      ],
+      "date": "in shops Oct 14 · illustrated novel",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway",
+      "cta": "COMING OCT 14 — LUNAR LISTING ↗",
+      "source": "cover :: lunar 0826MP1134",
+      "desc": "In the frozen shadows of Vardø, Norway — where the sun vanishes for a month and legends never sleep — journalist Mitchell Thomsen returns home to confront a haunting from his past, as the centuries-old Vardø witch trials resurface and reality begins to slip. Scandinavian cosmic horror.",
+      "activity": "2026-08-31"
+    },
+    {
+      "section": "incoming",
+      "title": "THIS LAND IS OLD AND DARK #2",
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "in shops Oct 28 · #2 of 3",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "cta": "COMING OCT 28 — LUNAR LISTING ↗",
+      "source": "cover :: lunar 0826MP1119",
+      "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage's walls, this land is old, and it is dark.",
+      "activity": "2026-08-31"
     },
     {
       "section": "out",
@@ -366,7 +406,8 @@
       "link": "https://www.lunardistribution.com/home/search?term=devils%20class",
       "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
       "source": "cover :: lunar 0726MP1066",
-      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk."
+      "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk.",
+      "activity": "2026-09-30"
     },
     {
       "section": "out",
@@ -383,7 +424,8 @@
       "link": "https://www.invadercomics.com/store/p/artillery1",
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: lunar 0626MP0928",
-      "desc": "The complete WEAPONS OF ART miniseries in one volume. \"A.I. stole your art. We're gonna steal it BACK!\" The Mona Lisa herself has been stolen — and a team of artists trains to rescue her and keep the doors of creativity open for all humanity."
+      "desc": "The complete WEAPONS OF ART miniseries in one volume. \"A.I. stole your art. We're gonna steal it BACK!\" The Mona Lisa herself has been stolen — and a team of artists trains to rescue her and keep the doors of creativity open for all humanity.",
+      "activity": "2026-08-26"
     },
     {
       "section": "out",
@@ -404,7 +446,8 @@
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
       "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
       "source": "cover :: lunar 0626MP0995",
-      "desc": "Jacques Du Lac is the most adored man in Fort Courage. When the corrupt leadership council decides his popularity threatens their grip on the settlement, they cast him beyond the fort's impenetrable walls. Colonial horror, developed with mentorship from Scott Snyder."
+      "desc": "Jacques Du Lac is the most adored man in Fort Courage. When the corrupt leadership council decides his popularity threatens their grip on the settlement, they cast him beyond the fort's impenetrable walls. Colonial horror, developed with mentorship from Scott Snyder.",
+      "activity": "2026-08-26"
     },
     {
       "section": "out",
@@ -425,7 +468,8 @@
       "link": "https://www.lunardistribution.com/home/search?term=digger",
       "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
       "source": "cover :: lunar 0626MP8002",
-      "desc": "In 1930s Veracruz, Mexico, Olmec ruins lie all but hidden from the outside world — until a young guide crosses paths with the treasure hunter they call El Excavador. The sold-out run returns with new black-and-white and spot-color covers."
+      "desc": "In 1930s Veracruz, Mexico, Olmec ruins lie all but hidden from the outside world — until a young guide crosses paths with the treasure hunter they call El Excavador. The sold-out run returns with new black-and-white and spot-color covers.",
+      "activity": "2026-08-26"
     },
     {
       "section": "out",
@@ -446,7 +490,8 @@
       "link": "https://www.invadercomics.com/store/p/thedigger3-zpyzm",
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: lunar 0626MP8005",
-      "desc": "The final issue: the saga of the Digger and the Kid reaches its epic conclusion among the hidden Olmec ruins of 1930s Veracruz."
+      "desc": "The final issue: the saga of the Digger and the Kid reaches its epic conclusion among the hidden Olmec ruins of 1930s Veracruz.",
+      "activity": "2026-07-29"
     }
   ]
 }
