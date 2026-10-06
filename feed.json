@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-10-06",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -20,7 +20,7 @@
     "OUT NOW: THE DIGGER #1–4 REPRINTS",
     "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
-    "FOC OCT 5: FIRST WAVE TP VOL 02",
+    "COMING: FIRST WAVE TP VOL 02 — NOV 25",
     "FOC OCT 26: THE NAUGHTY LIST #1",
     "FOC OCT 26: NOSFERATU: BEHIND THE HORROR AND DEATH TP",
     "FOC NOV 2: THIS LAND IS OLD AND DARK #3",
@@ -166,8 +166,8 @@
           "n": "michael nelsen (cover)"
         }
       ],
-      "date": "FOC Oct 5 · in shops Nov 25 · $6.99",
-      "color": "magenta",
+      "date": "in shops Nov 25 · $6.99",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
       "source": "cover :: lunar 0926MP0979",
@@ -338,11 +338,11 @@
           "n": "michael nelsen (cover)"
         }
       ],
-      "date": "FOC Oct 5 · in shops Nov 25 · $6.99 · 100pg B&W anthology TP",
-      "color": "magenta",
+      "date": "in shops Nov 25 · $6.99 · 100pg B&W anthology TP",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0926MP0979.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
-      "cta": "FOC OCT 5 — ORDER VIA LUNAR ↗",
+      "cta": "COMING NOV 25 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0926MP0979",
       "desc": "Invader's quarterly anthology returns for volume two: 100 pages of black-and-white first issues, teasers, covers, and exclusive shorts you won't find anywhere else. Cover by Michael Nelsen.",
       "activity": "2026-09-10"
