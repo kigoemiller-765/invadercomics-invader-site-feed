@@ -246,6 +246,9 @@
     {
       "section": "incoming",
       "title": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
+      "genres": [
+        "horror"
+      ],
       "creators": [
         {
           "n": "marco fontanili",
@@ -265,6 +268,9 @@
     {
       "section": "incoming",
       "title": "THE NAUGHTY LIST #1",
+      "genres": [
+        "horror"
+      ],
       "creators": [
         {
           "n": "shawn lewis"
@@ -285,6 +291,9 @@
     {
       "section": "incoming",
       "title": "THIS LAND IS OLD AND DARK #3",
+      "genres": [
+        "horror"
+      ],
       "creators": [
         {
           "n": "ryan crowe",
@@ -307,6 +316,10 @@
     {
       "section": "incoming",
       "title": "FIELD GUIDE TO LEGENDARY CREATURES OF THE UNITED STATES #1 (OF 4): THE NORTHEAST",
+      "genres": [
+        "horror",
+        "weird"
+      ],
       "creators": [
         {
           "n": "michael perkins"
@@ -330,6 +343,9 @@
     {
       "section": "incoming",
       "title": "FIRST WAVE TP VOL 02",
+      "genres": [
+        "weird"
+      ],
       "creators": [
         {
           "n": "invader anthology"
@@ -350,6 +366,10 @@
     {
       "section": "incoming",
       "title": "THE WITCHMASTER OF NORWAY TP",
+      "genres": [
+        "horror",
+        "weird"
+      ],
       "creators": [
         {
           "n": "keith foster",
@@ -372,6 +392,9 @@
     {
       "section": "incoming",
       "title": "THIS LAND IS OLD AND DARK #2",
+      "genres": [
+        "horror"
+      ],
       "creators": [
         {
           "n": "ryan crowe",
@@ -394,6 +417,10 @@
     {
       "section": "out",
       "title": "DEVIL'S CLASS #1",
+      "genres": [
+        "horror",
+        "weird"
+      ],
       "creators": [
         {
           "n": "eli powell",
@@ -412,6 +439,9 @@
     {
       "section": "out",
       "title": "ARTILLERY TP",
+      "genres": [
+        "sci-fi"
+      ],
       "creators": [
         {
           "n": "jimmie robinson",
@@ -430,6 +460,9 @@
     {
       "section": "out",
       "title": "THIS LAND IS OLD AND DARK #1",
+      "genres": [
+        "horror"
+      ],
       "creators": [
         {
           "n": "ryan crowe",
@@ -452,6 +485,9 @@
     {
       "section": "out",
       "title": "THE DIGGER #1–4 · 2ND PRINTINGS",
+      "genres": [
+        "weird"
+      ],
       "creators": [
         {
           "n": "t.s. luther",
@@ -474,6 +510,9 @@
     {
       "section": "out",
       "title": "THE DIGGER #4",
+      "genres": [
+        "weird"
+      ],
       "creators": [
         {
           "n": "t.s. luther",
