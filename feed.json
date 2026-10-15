@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-15",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -14,11 +14,11 @@
   },
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
+    "OUT NOW: THE WITCHMASTER OF NORWAY TP",
     "OUT NOW: DEVIL'S CLASS #1",
     "OUT NOW: ARTILLERY TP",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
     "OUT NOW: THE DIGGER #1–4 REPRINTS",
-    "COMING: WITCHMASTER OF NORWAY TP — OCT 14",
     "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
     "COMING: FIRST WAVE TP VOL 02 — NOV 25",
     "FOC OCT 26: THE NAUGHTY LIST #1",
@@ -28,14 +28,14 @@
   ],
   "terminal": [
     {
+      "t": "WITCHMASTER OF NORWAY TP",
+      "d": "out now",
+      "u": "https://www.invadercomics.com/store/p/witchmasterofnorway"
+    },
+    {
       "t": "DEVIL'S CLASS #1",
       "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
-    },
-    {
-      "t": "WITCHMASTER OF NORWAY TP",
-      "d": "oct 14",
-      "u": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway"
     },
     {
       "t": "THIS LAND IS OLD AND DARK #2",
@@ -185,7 +185,7 @@
           "u": "https://www.instagram.com/marcofontanili.art/"
         }
       ],
-      "date": "in shops Oct 14",
+      "date": "out now · released Oct 14",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
       "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
@@ -228,7 +228,7 @@
       "url": "https://www.kickstarter.com/projects/invader/devils-class-a-chilling-80pg-horror-mystery-graphic-novel"
     },
     {
-      "status": "● FUNDED :: TP in shops Oct 14",
+      "status": "● FUNDED :: TP in shops now",
       "title": "THE WITCHMASTER OF NORWAY",
       "desc": "Scandinavian cosmic horror — an illustrated novel written by Keith Foster with artwork by Marco Fontanili.",
       "img": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
@@ -365,32 +365,6 @@
     },
     {
       "section": "incoming",
-      "title": "THE WITCHMASTER OF NORWAY TP",
-      "genres": [
-        "horror",
-        "weird"
-      ],
-      "creators": [
-        {
-          "n": "keith foster",
-          "u": "https://www.keithrfoster.com/"
-        },
-        {
-          "n": "marco fontanili",
-          "u": "https://www.instagram.com/marcofontanili.art/"
-        }
-      ],
-      "date": "in shops Oct 14 · illustrated novel",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=witchmaster%20of%20norway",
-      "cta": "COMING OCT 14 — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0826MP1134",
-      "desc": "In the frozen shadows of Vardø, Norway — where the sun vanishes for a month and legends never sleep — journalist Mitchell Thomsen returns home to confront a haunting from his past, as the centuries-old Vardø witch trials resurface and reality begins to slip. Scandinavian cosmic horror.",
-      "activity": "2026-08-31"
-    },
-    {
-      "section": "incoming",
       "title": "THIS LAND IS OLD AND DARK #2",
       "genres": [
         "horror"
@@ -412,6 +386,32 @@
       "cta": "COMING OCT 28 — LUNAR LISTING ↗",
       "source": "cover :: lunar 0826MP1119",
       "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage's walls, this land is old, and it is dark.",
+      "activity": "2026-08-31"
+    },
+    {
+      "section": "out",
+      "title": "THE WITCHMASTER OF NORWAY TP",
+      "genres": [
+        "horror",
+        "weird"
+      ],
+      "creators": [
+        {
+          "n": "keith foster",
+          "u": "https://www.keithrfoster.com/"
+        },
+        {
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
+        }
+      ],
+      "date": "out now · released Oct 14 · illustrated novel",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
+      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
+      "cta": "BUY AT THE INVADER STORE ↗",
+      "source": "cover :: lunar 0826MP1134",
+      "desc": "In the frozen shadows of Vardø, Norway — where the sun vanishes for a month and legends never sleep — journalist Mitchell Thomsen returns home to confront a haunting from his past, as the centuries-old Vardø witch trials resurface and reality begins to slip. Scandinavian cosmic horror.",
       "activity": "2026-08-31"
     },
     {
