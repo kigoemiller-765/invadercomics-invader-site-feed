@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15",
+  "updated": "2026-10-27",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -18,11 +18,11 @@
     "OUT NOW: DEVIL'S CLASS #1",
     "OUT NOW: ARTILLERY TP",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
-    "OUT NOW: THE DIGGER #1–4 REPRINTS",
-    "COMING: THIS LAND IS OLD AND DARK #2 — OCT 28",
-    "COMING: FIRST WAVE TP VOL 02 — NOV 25",
-    "FOC OCT 26: THE NAUGHTY LIST #1",
-    "FOC OCT 26: NOSFERATU: BEHIND THE HORROR AND DEATH TP",
+    "OUT NOW: THE DIGGER #1-4 REPRINTS",
+    "COMING: THIS LAND IS OLD AND DARK #2 :: OCT 28",
+    "COMING: FIRST WAVE TP VOL 02 :: NOV 25",
+    "COMING: THE NAUGHTY LIST #1 :: DEC 16",
+    "COMING: NOSFERATU: BEHIND THE HORROR AND DEATH TP :: DEC 16",
     "FOC NOV 2: THIS LAND IS OLD AND DARK #3",
     "PROTECT. YOUR. SHELVES."
   ],
@@ -77,13 +77,13 @@
           "u": "https://www.instagram.com/marcofontanili.art/"
         }
       ],
-      "date": "FOC Oct 26 · in shops Dec 16 · $22.99",
-      "color": "magenta",
+      "date": "in shops Dec 16 · $22.99",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1020.jpg",
       "contain": true,
       "link": "https://www.lunardistribution.com/home/search?term=nosferatu",
       "source": "cover :: lunar 1026MP1020",
-      "activity": "2026-10-01"
+      "activity": "2026-10-26"
     },
     {
       "title": "THE NAUGHTY LIST #1 (OF 4)",
@@ -95,12 +95,12 @@
           "n": "ben perkins"
         }
       ],
-      "date": "FOC Oct 26 · in shops Dec 16 · $5.99",
-      "color": "magenta",
+      "date": "in shops Dec 16 · $5.99",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
       "source": "cover :: lunar 1026MP1017",
-      "activity": "2026-10-01"
+      "activity": "2026-10-26"
     },
     {
       "title": "THIS LAND IS OLD AND DARK #3",
@@ -255,15 +255,15 @@
           "u": "https://www.instagram.com/marcofontanili.art/"
         }
       ],
-      "date": "FOC Oct 26 · in shops Dec 16 · $22.99 · 176pg TP",
-      "color": "magenta",
+      "date": "in shops Dec 16 · $22.99 · 176pg TP",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1020.jpg",
       "contain": true,
       "link": "https://www.lunardistribution.com/home/search?term=nosferatu",
-      "cta": "FOC OCT 26 - ORDER VIA LUNAR ↗",
+      "cta": "COMING DEC 16 — LUNAR LISTING ↗",
       "source": "cover :: lunar 1026MP1020",
       "desc": "Marco Fontanili's illustrated history of the German Expressionist classic: its birth, its near destruction, and its resurrection, told across 176 pages in a sideways format.",
-      "activity": "2026-10-01"
+      "activity": "2026-10-26"
     },
     {
       "section": "incoming",
@@ -279,14 +279,14 @@
           "n": "ben perkins"
         }
       ],
-      "date": "FOC Oct 26 · in shops Dec 16 · $5.99 · 32pg (1 of 4)",
-      "color": "magenta",
+      "date": "in shops Dec 16 · $5.99 · 32pg (1 of 4)",
+      "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1017.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
-      "cta": "FOC OCT 26 - ORDER VIA LUNAR ↗",
+      "cta": "COMING DEC 16 — LUNAR LISTING ↗",
       "source": "cover :: lunar 1026MP1017",
       "desc": "A massacre at the North Pole, and Santa takes the fall. Locked in an asylum for the mythologically insane, he's the only one who can hunt down the deranged holiday icons loosed by a jailbreak. Written by Shawn Lewis with art by Ben Perkins, from Invader's Gory Books line.",
-      "activity": "2026-10-01"
+      "activity": "2026-10-26"
     },
     {
       "section": "incoming",
