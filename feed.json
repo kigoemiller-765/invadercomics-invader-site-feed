@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -14,12 +14,12 @@
   },
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
+    "OUT NOW: THIS LAND IS OLD AND DARK #2",
     "OUT NOW: THE WITCHMASTER OF NORWAY TP",
     "OUT NOW: DEVIL'S CLASS #1",
     "OUT NOW: ARTILLERY TP",
     "OUT NOW: THIS LAND IS OLD AND DARK #1",
     "OUT NOW: THE DIGGER #1-4 REPRINTS",
-    "COMING: THIS LAND IS OLD AND DARK #2 :: OCT 28",
     "COMING: FIRST WAVE TP VOL 02 :: NOV 25",
     "COMING: THE NAUGHTY LIST #1 :: DEC 16",
     "COMING: NOSFERATU: BEHIND THE HORROR AND DEATH TP :: DEC 16",
@@ -27,6 +27,11 @@
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
+    {
+      "t": "THIS LAND IS OLD AND DARK #2",
+      "d": "out now",
+      "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
+    },
     {
       "t": "WITCHMASTER OF NORWAY TP",
       "d": "out now",
@@ -36,11 +41,6 @@
       "t": "DEVIL'S CLASS #1",
       "d": "out now",
       "u": "https://www.lunardistribution.com/home/search?term=devils%20class"
-    },
-    {
-      "t": "THIS LAND IS OLD AND DARK #2",
-      "d": "oct 28",
-      "u": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark"
     },
     {
       "t": "FIELD GUIDE TO LEGENDARY CREATURES #1",
@@ -69,6 +69,25 @@
     }
   ],
   "grid": [
+    {
+      "title": "THIS LAND IS OLD AND DARK #2",
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "out now · released Oct 28",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 0826MP1119",
+      "activity": "2026-10-28"
+    },
     {
       "title": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
       "creators": [
@@ -172,44 +191,6 @@
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
       "source": "cover :: lunar 0926MP0979",
       "activity": "2026-09-10"
-    },
-    {
-      "title": "WITCHMASTER OF NORWAY TP",
-      "creators": [
-        {
-          "n": "keith foster",
-          "u": "https://www.keithrfoster.com/"
-        },
-        {
-          "n": "marco fontanili",
-          "u": "https://www.instagram.com/marcofontanili.art/"
-        }
-      ],
-      "date": "out now · released Oct 14",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
-      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
-      "source": "cover :: lunar 0826MP1134",
-      "activity": "2026-08-31"
-    },
-    {
-      "title": "THIS LAND IS OLD AND DARK #2",
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "in shops Oct 28",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "source": "cover :: lunar 0826MP1119",
-      "activity": "2026-08-31"
     }
   ],
   "carousel": [
@@ -364,7 +345,7 @@
       "activity": "2026-09-10"
     },
     {
-      "section": "incoming",
+      "section": "out",
       "title": "THIS LAND IS OLD AND DARK #2",
       "genres": [
         "horror"
@@ -379,14 +360,14 @@
           "u": "https://abelgrc78.artstation.com/"
         }
       ],
-      "date": "in shops Oct 28 · #2 of 3",
+      "date": "out now · released Oct 28 · #2 of 3",
       "color": "yellow",
       "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1119.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "COMING OCT 28 — LUNAR LISTING ↗",
+      "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
       "source": "cover :: lunar 0826MP1119",
       "desc": "The colonial horror deepens in the second of three issues — beyond Fort Courage's walls, this land is old, and it is dark.",
-      "activity": "2026-08-31"
+      "activity": "2026-10-28"
     },
     {
       "section": "out",
