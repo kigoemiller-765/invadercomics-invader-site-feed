@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-11-03",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -23,7 +23,7 @@
     "COMING: FIRST WAVE TP VOL 02 :: NOV 25",
     "COMING: THE NAUGHTY LIST #1 :: DEC 16",
     "COMING: NOSFERATU: BEHIND THE HORROR AND DEATH TP :: DEC 16",
-    "FOC NOV 2: THIS LAND IS OLD AND DARK #3",
+    "COMING: THIS LAND IS OLD AND DARK #3 :: DEC 23",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
@@ -69,6 +69,25 @@
     }
   ],
   "grid": [
+    {
+      "title": "THIS LAND IS OLD AND DARK #3",
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "in shops Dec 23 · $5.99",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "source": "cover :: lunar 1026MP1036",
+      "activity": "2026-11-02"
+    },
     {
       "title": "THIS LAND IS OLD AND DARK #2",
       "creators": [
@@ -120,25 +139,6 @@
       "link": "https://www.lunardistribution.com/home/search?term=naughty%20list",
       "source": "cover :: lunar 1026MP1017",
       "activity": "2026-10-26"
-    },
-    {
-      "title": "THIS LAND IS OLD AND DARK #3",
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "FOC Nov 2 · in shops Dec 23 · $5.99",
-      "color": "magenta",
-      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "source": "cover :: lunar 1026MP1036",
-      "activity": "2026-10-01"
     },
     {
       "title": "DEVIL'S CLASS #1",
@@ -245,6 +245,31 @@
   "releases": [
     {
       "section": "incoming",
+      "title": "THIS LAND IS OLD AND DARK #3",
+      "genres": [
+        "horror"
+      ],
+      "creators": [
+        {
+          "n": "ryan crowe",
+          "u": "https://www.instagram.com/doctorcrowe/"
+        },
+        {
+          "n": "abel garcia",
+          "u": "https://abelgrc78.artstation.com/"
+        }
+      ],
+      "date": "in shops Dec 23 · $5.99 · 24pg (3 of 3)",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
+      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
+      "cta": "COMING DEC 23 — LUNAR LISTING ↗",
+      "source": "cover :: lunar 1026MP1036",
+      "desc": "The fall of Fort Courage. Jacques Du Lac races home with Longhunter and her exiles as the truth about the Skinwalkers comes out, and the walls that held back The Vast finally give. The colonial horror series reaches its brutal conclusion.",
+      "activity": "2026-11-02"
+    },
+    {
+      "section": "incoming",
       "title": "NOSFERATU: BEHIND THE HORROR AND DEATH TP",
       "genres": [
         "horror"
@@ -287,31 +312,6 @@
       "source": "cover :: lunar 1026MP1017",
       "desc": "A massacre at the North Pole, and Santa takes the fall. Locked in an asylum for the mythologically insane, he's the only one who can hunt down the deranged holiday icons loosed by a jailbreak. Written by Shawn Lewis with art by Ben Perkins, from Invader's Gory Books line.",
       "activity": "2026-10-26"
-    },
-    {
-      "section": "incoming",
-      "title": "THIS LAND IS OLD AND DARK #3",
-      "genres": [
-        "horror"
-      ],
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "FOC Nov 2 · in shops Dec 23 · $5.99 · 24pg (3 of 3)",
-      "color": "magenta",
-      "cover": "https://media.lunardistribution.com/images/covers/large/1026MP1036.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "FOC NOV 2 - ORDER VIA LUNAR ↗",
-      "source": "cover :: lunar 1026MP1036",
-      "desc": "The fall of Fort Courage. Jacques Du Lac races home with Longhunter and her exiles as the truth about the Skinwalkers comes out, and the walls that held back The Vast finally give. The colonial horror series reaches its brutal conclusion.",
-      "activity": "2026-10-01"
     },
     {
       "section": "incoming",
