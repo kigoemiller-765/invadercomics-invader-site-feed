@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-11",
   "campaign": {
     "state": "prelaunch",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -141,6 +141,25 @@
       "activity": "2026-10-26"
     },
     {
+      "title": "WITCHMASTER OF NORWAY TP",
+      "creators": [
+        {
+          "n": "keith foster",
+          "u": "https://www.keithrfoster.com/"
+        },
+        {
+          "n": "marco fontanili",
+          "u": "https://www.instagram.com/marcofontanili.art/"
+        }
+      ],
+      "date": "out now · released Oct 14",
+      "color": "yellow",
+      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
+      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
+      "source": "cover :: lunar 0826MP1134",
+      "activity": "2026-10-14"
+    },
+    {
       "title": "DEVIL'S CLASS #1",
       "creators": [
         {
@@ -191,25 +210,6 @@
       "link": "https://www.lunardistribution.com/home/search?term=first%20wave",
       "source": "cover :: lunar 0926MP0979",
       "activity": "2026-09-10"
-    },
-    {
-      "title": "WITCHMASTER OF NORWAY TP",
-      "creators": [
-        {
-          "n": "keith foster",
-          "u": "https://www.keithrfoster.com/"
-        },
-        {
-          "n": "marco fontanili",
-          "u": "https://www.instagram.com/marcofontanili.art/"
-        }
-      ],
-      "date": "out now · released Oct 14",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0826MP1134.jpg",
-      "link": "https://www.invadercomics.com/store/p/witchmasterofnorway",
-      "source": "cover :: lunar 0826MP1134",
-      "activity": "2026-08-31"
     }
   ],
   "carousel": [
@@ -412,7 +412,7 @@
       "cta": "BUY AT THE INVADER STORE ↗",
       "source": "cover :: lunar 0826MP1134",
       "desc": "In the frozen shadows of Vardø, Norway — where the sun vanishes for a month and legends never sleep — journalist Mitchell Thomsen returns home to confront a haunting from his past, as the centuries-old Vardø witch trials resurface and reality begins to slip. Scandinavian cosmic horror.",
-      "activity": "2026-08-31"
+      "activity": "2026-10-14"
     },
     {
       "section": "out",
@@ -506,31 +506,6 @@
       "source": "cover :: lunar 0626MP8002",
       "desc": "In 1930s Veracruz, Mexico, Olmec ruins lie all but hidden from the outside world — until a young guide crosses paths with the treasure hunter they call El Excavador. The sold-out run returns with new black-and-white and spot-color covers.",
       "activity": "2026-08-26"
-    },
-    {
-      "section": "out",
-      "title": "THE DIGGER #4",
-      "genres": [
-        "weird"
-      ],
-      "creators": [
-        {
-          "n": "t.s. luther",
-          "u": "https://www.instagram.com/t.s.luther/"
-        },
-        {
-          "n": "sam gudilin",
-          "u": "https://www.instagram.com/samgudilin/"
-        }
-      ],
-      "date": "out now · released Jul 29 · $6.99",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8005.jpg",
-      "link": "https://www.invadercomics.com/store/p/thedigger3-zpyzm",
-      "cta": "BUY AT THE INVADER STORE ↗",
-      "source": "cover :: lunar 0626MP8005",
-      "desc": "The final issue: the saga of the Digger and the Kid reaches its epic conclusion among the hidden Olmec ruins of 1930s Veracruz.",
-      "activity": "2026-07-29"
     }
   ]
 }
