@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "campaign": {
     "state": "live",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -10,7 +10,7 @@
     "img": "https://i.kickstarter.com/assets/054/896/979/045dcd3bc02e947d58f73210459f9bee_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1787773999&width=1552&sig=MRh%2Fz2A%2BXihu3Me%2BJW1HK8HjG%2FWCiMJg1kAQU3eueTY%3D",
     "launch": "",
     "end": "2026-12-14T00:00:00-05:00",
-    "pct": 58
+    "pct": 59
   },
   "ticker": [
     ">> THE INVASION HAS BEGUN!",
@@ -25,7 +25,7 @@
     "COMING: THE NAUGHTY LIST #1 :: DEC 16",
     "COMING: NOSFERATU: BEHIND THE HORROR AND DEATH TP :: DEC 16",
     "COMING: THIS LAND IS OLD AND DARK #3 :: DEC 23",
-    "NOW SOLICITING: EVOCATION #1 :: INVADER COMICS PRESENTS",
+    "COMING: EVOCATION #1 :: FOC JAN 4 :: IN SHOPS FEB 24",
     "PROTECT. YOUR. SHELVES."
   ],
   "terminal": [
@@ -66,7 +66,7 @@
     },
     {
       "t": "EVOCATION #1",
-      "d": "soliciting",
+      "d": "feb 24",
       "u": "https://www.lunardistribution.com/home/search?term=evocation"
     }
   ],
@@ -75,14 +75,17 @@
       "title": "INVADER COMICS PRESENTS EVOCATION #1",
       "creators": [
         {
-          "n": "j r harris (cover)"
+          "n": "sam moore"
+        },
+        {
+          "n": "j r harris"
         },
         {
           "n": "michael nelsen (1:5 variant)"
         }
       ],
-      "date": "now soliciting · details pending",
-      "color": "muted",
+      "date": "FOC Jan 4 · in shops Feb 24 · $5.99",
+      "color": "magenta",
       "cover": "https://media.lunardistribution.com/images/covers/large/1226MP0956.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=evocation",
       "source": "cover :: lunar 1226MP0956",
@@ -253,19 +256,22 @@
       ],
       "creators": [
         {
-          "n": "j r harris (cover)"
+          "n": "sam moore"
+        },
+        {
+          "n": "j r harris"
         },
         {
           "n": "michael nelsen (1:5 variant)"
         }
       ],
-      "date": "now soliciting · details pending",
-      "color": "muted",
+      "date": "FOC Jan 4 · in shops Feb 24 · $5.99",
+      "color": "magenta",
       "cover": "https://media.lunardistribution.com/images/covers/large/1226MP0956.jpg",
       "link": "https://www.lunardistribution.com/home/search?term=evocation",
-      "cta": "NOW SOLICITING — LUNAR LISTING ↗",
+      "cta": "FOC JAN 4 — ORDER VIA LUNAR ↗",
       "source": "cover :: lunar 1226MP0956",
-      "desc": "A new Invader Comics Presents title, just listed on Lunar with a cover by J.R. Harris and a 1:5 incentive variant by Michael Nelsen. Full solicitation details to come.",
+      "desc": "A new supernatural series opener from Sam Moore and J.R. Harris. A mysterious figure known only as the story merchant wanders the lands telling tales and bestowing magic on those who hear them, with monsters and cunning spirits in every saga.",
       "activity": "2026-11-21"
     },
     {
