@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "campaign": {
     "state": "live",
     "title": "THE DIGGER: EYES OF THE DEVIL",
@@ -18,9 +18,6 @@
     "OUT NOW: THIS LAND IS OLD AND DARK #2",
     "OUT NOW: THE WITCHMASTER OF NORWAY TP",
     "OUT NOW: DEVIL'S CLASS #1",
-    "OUT NOW: ARTILLERY TP",
-    "OUT NOW: THIS LAND IS OLD AND DARK #1",
-    "OUT NOW: THE DIGGER #1-4 REPRINTS",
     "COMING: FIELD GUIDE TO LEGENDARY CREATURES #1 :: DEC 9",
     "COMING: THE NAUGHTY LIST #1 :: DEC 16",
     "COMING: NOSFERATU: BEHIND THE HORROR AND DEATH TP :: DEC 16",
@@ -463,77 +460,6 @@
       "source": "cover :: lunar 0726MP1066",
       "desc": "Mr. Smith is starting over — a new job, a new town, a new roster of students at a strange, isolated private school. But at this school the real lesson plan doesn't begin until after class. A slow-tightening horror mystery about a teacher who realizes, far too late, that he isn't the one holding the chalk.",
       "activity": "2026-09-30"
-    },
-    {
-      "section": "out",
-      "title": "ARTILLERY TP",
-      "genres": [
-        "sci-fi"
-      ],
-      "creators": [
-        {
-          "n": "jimmie robinson",
-          "u": "https://www.instagram.com/jimmie.l.robinson/"
-        }
-      ],
-      "date": "out now · released Aug 26 · $22.99 · collects #1–3",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0928.jpg",
-      "link": "https://www.invadercomics.com/store/p/artillery1",
-      "cta": "BUY AT THE INVADER STORE ↗",
-      "source": "cover :: lunar 0626MP0928",
-      "desc": "The complete WEAPONS OF ART miniseries in one volume. \"A.I. stole your art. We're gonna steal it BACK!\" The Mona Lisa herself has been stolen — and a team of artists trains to rescue her and keep the doors of creativity open for all humanity.",
-      "activity": "2026-08-26"
-    },
-    {
-      "section": "out",
-      "title": "THIS LAND IS OLD AND DARK #1",
-      "genres": [
-        "horror"
-      ],
-      "creators": [
-        {
-          "n": "ryan crowe",
-          "u": "https://www.instagram.com/doctorcrowe/"
-        },
-        {
-          "n": "abel garcia",
-          "u": "https://abelgrc78.artstation.com/"
-        }
-      ],
-      "date": "out now · released Aug 26 · $5.99 · #1 of 3",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP0995.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=this%20land%20is%20old%20and%20dark",
-      "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0626MP0995",
-      "desc": "Jacques Du Lac is the most adored man in Fort Courage. When the corrupt leadership council decides his popularity threatens their grip on the settlement, they cast him beyond the fort's impenetrable walls. Colonial horror, developed with mentorship from Scott Snyder.",
-      "activity": "2026-08-26"
-    },
-    {
-      "section": "out",
-      "title": "THE DIGGER #1–4 · 2ND PRINTINGS",
-      "genres": [
-        "weird"
-      ],
-      "creators": [
-        {
-          "n": "t.s. luther",
-          "u": "https://www.instagram.com/t.s.luther/"
-        },
-        {
-          "n": "sam gudilin",
-          "u": "https://www.instagram.com/samgudilin/"
-        }
-      ],
-      "date": "reprints out now · released Aug 26 · $6.99 each",
-      "color": "yellow",
-      "cover": "https://media.lunardistribution.com/images/covers/large/0626MP8002.jpg",
-      "link": "https://www.lunardistribution.com/home/search?term=digger",
-      "cta": "IN SHOPS NOW — LUNAR LISTING ↗",
-      "source": "cover :: lunar 0626MP8002",
-      "desc": "In 1930s Veracruz, Mexico, Olmec ruins lie all but hidden from the outside world — until a young guide crosses paths with the treasure hunter they call El Excavador. The sold-out run returns with new black-and-white and spot-color covers.",
-      "activity": "2026-08-26"
     }
   ]
 }
